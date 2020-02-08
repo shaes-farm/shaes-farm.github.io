@@ -1,4 +1,4 @@
 # Stone Hill Agricultural Experiment Station
-Food | clothing | shelter | medicine | culture
+food | clothing | shelter | medicine | culture
 
-## Coming Soon
+## Coming Soon!
